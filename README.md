@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Sam-MJ
+- 👀 I’m interested in learning about web development, frontend and backend, cybersecurity, at a minimum.
+- 🌱 I’m currently learning frontend and backend.
+- 💞️ I’m looking to collaborate on temporary projects on frontend and backend to gain experience.
+- 📫 You can reach me through my email: martine7samue10@gmail.com
